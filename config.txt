@@ -1,0 +1,7 @@
+// Run the following in cmd in admin mode after replacing (your VM) with whatever name you've given your VM
+
+VBoxManage modifyvm "(your VM)" --cpus 1
+VBoxManage modifyvm "(your VM)" --vram 128
+VBoxManage setextradata "(your VM)" VBoxInternal2/EfiGopMode 5
+VBoxManage setextradata "(your VM)" "VBoxInternal2/SmcDeviceKey" "ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc"
+VBoxManage modifyvm "(your VM)" --cpu-profile "Intel Core i7-6700K"
