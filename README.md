@@ -1,5 +1,5 @@
 # Thinkpad P52 Hackintosh (MacOS-X Snow Leopard 10.6)
-## CMD config files to effectively run MacOS 10.6 on a Thinkpad P52 using virtualbox
+CMD config files to effectively run MacOS 10.6 on a Thinkpad P52 using virtualbox
 
 # Overview
 This repository provides the necessary configuration files and instructions to run MacOS X Snow Leopard 10.6 on a Lenovo ThinkPad P52 using VirtualBox. Snow Leopard on non-Apple hardware can be a challenging endeavor, but with the right setup, it's possible to create a functional virtual environment for testing or development purposes.
@@ -7,7 +7,7 @@ This repository provides the necessary configuration files and instructions to r
 # Setup Instructions
 Follow these steps to set up Snow Leopard on your ThinkPad P52:
 
-**Install VirtualBox:** If you haven't already, download and install VirtualBox on your system.
+**Install VirtualBox:** If you haven't already, download and install [VirtualBox](https://www.virtualbox.org/) on your system.
 
 **Download Snow Leopard ISO:** Obtain a copy of the Snow Leopard 10.6 installation ISO. You can find this through [archive.org](https://archive.org/details/snow-leopard-install_202112).
 
