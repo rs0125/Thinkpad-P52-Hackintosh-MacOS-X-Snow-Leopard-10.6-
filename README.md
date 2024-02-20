@@ -27,5 +27,5 @@ Follow these steps to set up Snow Leopard on your ThinkPad P52:
 **Compatibility:** While VirtualBox provides a platform for running Snow Leopard on non-Apple hardware, please note that this setup may not be suitable for production use and is primarily intended for testing and experimentation.
 **Legal Considerations:** Ensure compliance with Apple's licensing agreements when installing and using MacOS X on non-Apple hardware.
 
-##Disclaimer
+## Disclaimer
 The author of this repository is not responsible for any damages or legal issues arising from the use of this software. Use at your own risk.
